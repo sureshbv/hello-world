@@ -1,5 +1,14 @@
-# hello-world
-This is just another repostiory to added to see how the edits' works.
-Looks cool.
-Changing the local copy of the README file
-Let me see if this gets updated into the master in github
+
+#Project Creation
+
+##Repository Name
+> Define the project that will be created under git, gerrit and Jenkins
+To access the project
+> git clone <user>@<server>:<project name>/<project>.git
+
+##Description
+* Brief description of the project
+
+##Server Details
+* Drop down menu of the servers
+
