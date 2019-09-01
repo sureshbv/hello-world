@@ -4,3 +4,5 @@ Let me see if this also gets updated in the repo
 This line is from readme-edits branch
 This line is added using vim
 This line is added using MacOs
+This line is added in Master branch
+This line is added in test2 branch
